@@ -2,7 +2,7 @@
 
 This project is intended to explain the Ownership Rules in Rust Programming Language.
 
-  # There are two phases in this project:
+  # There are two concepts in this project:
     Ownership
     Unsafe Rust Concept
 
